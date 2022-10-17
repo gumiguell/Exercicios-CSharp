@@ -1,0 +1,16 @@
+E:\gu\ds porra\tp\atividades\maisNova\maisNova\bin\Debug\maisNova.exe.config
+E:\gu\ds porra\tp\atividades\maisNova\maisNova\bin\Debug\maisNova.exe
+E:\gu\ds porra\tp\atividades\maisNova\maisNova\bin\Debug\maisNova.pdb
+E:\gu\ds porra\tp\atividades\maisNova\maisNova\obj\Debug\maisNova.csproj.AssemblyReference.cache
+E:\gu\ds porra\tp\atividades\maisNova\maisNova\obj\Debug\maisNova.csproj.SuggestedBindingRedirects.cache
+E:\gu\ds porra\tp\atividades\maisNova\maisNova\obj\Debug\maisNova.csproj.CoreCompileInputs.cache
+E:\gu\ds porra\tp\atividades\maisNova\maisNova\obj\Debug\maisNova.exe
+E:\gu\ds porra\tp\atividades\maisNova\maisNova\obj\Debug\maisNova.pdb
+D:\gu\ds porra\tp\atividades\maisNova\maisNova\bin\Debug\maisNova.exe.config
+D:\gu\ds porra\tp\atividades\maisNova\maisNova\bin\Debug\maisNova.exe
+D:\gu\ds porra\tp\atividades\maisNova\maisNova\bin\Debug\maisNova.pdb
+D:\gu\ds porra\tp\atividades\maisNova\maisNova\obj\Debug\maisNova.csproj.AssemblyReference.cache
+D:\gu\ds porra\tp\atividades\maisNova\maisNova\obj\Debug\maisNova.csproj.SuggestedBindingRedirects.cache
+D:\gu\ds porra\tp\atividades\maisNova\maisNova\obj\Debug\maisNova.csproj.CoreCompileInputs.cache
+D:\gu\ds porra\tp\atividades\maisNova\maisNova\obj\Debug\maisNova.exe
+D:\gu\ds porra\tp\atividades\maisNova\maisNova\obj\Debug\maisNova.pdb

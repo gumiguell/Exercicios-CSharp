@@ -1,0 +1,16 @@
+E:\gu\ds porra\tp\atividades\empresa\empresa\bin\Debug\empresa.exe.config
+E:\gu\ds porra\tp\atividades\empresa\empresa\bin\Debug\empresa.exe
+E:\gu\ds porra\tp\atividades\empresa\empresa\bin\Debug\empresa.pdb
+E:\gu\ds porra\tp\atividades\empresa\empresa\obj\Debug\empresa.csproj.AssemblyReference.cache
+E:\gu\ds porra\tp\atividades\empresa\empresa\obj\Debug\empresa.csproj.SuggestedBindingRedirects.cache
+E:\gu\ds porra\tp\atividades\empresa\empresa\obj\Debug\empresa.csproj.CoreCompileInputs.cache
+E:\gu\ds porra\tp\atividades\empresa\empresa\obj\Debug\empresa.exe
+E:\gu\ds porra\tp\atividades\empresa\empresa\obj\Debug\empresa.pdb
+D:\gu\ds porra\tp\Lista1_GustavoMiguel_22309\EX10_empresa\empresa\bin\Debug\empresa.exe.config
+D:\gu\ds porra\tp\Lista1_GustavoMiguel_22309\EX10_empresa\empresa\bin\Debug\empresa.exe
+D:\gu\ds porra\tp\Lista1_GustavoMiguel_22309\EX10_empresa\empresa\bin\Debug\empresa.pdb
+D:\gu\ds porra\tp\Lista1_GustavoMiguel_22309\EX10_empresa\empresa\obj\Debug\empresa.csproj.AssemblyReference.cache
+D:\gu\ds porra\tp\Lista1_GustavoMiguel_22309\EX10_empresa\empresa\obj\Debug\empresa.csproj.SuggestedBindingRedirects.cache
+D:\gu\ds porra\tp\Lista1_GustavoMiguel_22309\EX10_empresa\empresa\obj\Debug\empresa.csproj.CoreCompileInputs.cache
+D:\gu\ds porra\tp\Lista1_GustavoMiguel_22309\EX10_empresa\empresa\obj\Debug\empresa.exe
+D:\gu\ds porra\tp\Lista1_GustavoMiguel_22309\EX10_empresa\empresa\obj\Debug\empresa.pdb

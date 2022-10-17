@@ -1,0 +1,16 @@
+C:\Users\miche\source\repos\juros\juros\obj\Debug\juros.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\juros\juros\obj\Debug\juros.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\juros\juros\obj\Debug\juros.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\juros\juros\bin\Debug\juros.exe.config
+C:\Users\miche\source\repos\juros\juros\bin\Debug\juros.exe
+C:\Users\miche\source\repos\juros\juros\bin\Debug\juros.pdb
+C:\Users\miche\source\repos\juros\juros\obj\Debug\juros.exe
+C:\Users\miche\source\repos\juros\juros\obj\Debug\juros.pdb
+E:\gu\ds porra\tp\atividades\EX8_juros\juros\bin\Debug\juros.exe.config
+E:\gu\ds porra\tp\atividades\EX8_juros\juros\bin\Debug\juros.exe
+E:\gu\ds porra\tp\atividades\EX8_juros\juros\bin\Debug\juros.pdb
+E:\gu\ds porra\tp\atividades\EX8_juros\juros\obj\Debug\juros.csproj.AssemblyReference.cache
+E:\gu\ds porra\tp\atividades\EX8_juros\juros\obj\Debug\juros.csproj.SuggestedBindingRedirects.cache
+E:\gu\ds porra\tp\atividades\EX8_juros\juros\obj\Debug\juros.csproj.CoreCompileInputs.cache
+E:\gu\ds porra\tp\atividades\EX8_juros\juros\obj\Debug\juros.exe
+E:\gu\ds porra\tp\atividades\EX8_juros\juros\obj\Debug\juros.pdb

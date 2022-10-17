@@ -1,0 +1,16 @@
+E:\gu\ds porra\tp\atividades\maiorMenor\maiorMenor\bin\Debug\maiorMenor.exe.config
+E:\gu\ds porra\tp\atividades\maiorMenor\maiorMenor\bin\Debug\maiorMenor.exe
+E:\gu\ds porra\tp\atividades\maiorMenor\maiorMenor\bin\Debug\maiorMenor.pdb
+E:\gu\ds porra\tp\atividades\maiorMenor\maiorMenor\obj\Debug\maiorMenor.csproj.AssemblyReference.cache
+E:\gu\ds porra\tp\atividades\maiorMenor\maiorMenor\obj\Debug\maiorMenor.csproj.SuggestedBindingRedirects.cache
+E:\gu\ds porra\tp\atividades\maiorMenor\maiorMenor\obj\Debug\maiorMenor.csproj.CoreCompileInputs.cache
+E:\gu\ds porra\tp\atividades\maiorMenor\maiorMenor\obj\Debug\maiorMenor.exe
+E:\gu\ds porra\tp\atividades\maiorMenor\maiorMenor\obj\Debug\maiorMenor.pdb
+E:\gu\ds porra\tp\atividades\EX2_maiorMenor\maiorMenor\obj\Debug\maiorMenor.csproj.AssemblyReference.cache
+E:\gu\ds porra\tp\atividades\EX2_maiorMenor\maiorMenor\obj\Debug\maiorMenor.csproj.SuggestedBindingRedirects.cache
+E:\gu\ds porra\tp\atividades\EX2_maiorMenor\maiorMenor\obj\Debug\maiorMenor.csproj.CoreCompileInputs.cache
+E:\gu\ds porra\tp\atividades\EX2_maiorMenor\maiorMenor\obj\Debug\maiorMenor.exe
+E:\gu\ds porra\tp\atividades\EX2_maiorMenor\maiorMenor\obj\Debug\maiorMenor.pdb
+E:\gu\ds porra\tp\atividades\EX2_maiorMenor\maiorMenor\bin\Debug\maiorMenor.exe.config
+E:\gu\ds porra\tp\atividades\EX2_maiorMenor\maiorMenor\bin\Debug\maiorMenor.exe
+E:\gu\ds porra\tp\atividades\EX2_maiorMenor\maiorMenor\bin\Debug\maiorMenor.pdb

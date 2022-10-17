@@ -1,0 +1,24 @@
+C:\Users\miche\source\repos\mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\mesesDoAno\mesesDoAno\bin\Debug\mesesDoAno.exe.config
+C:\Users\miche\source\repos\mesesDoAno\mesesDoAno\bin\Debug\mesesDoAno.exe
+C:\Users\miche\source\repos\mesesDoAno\mesesDoAno\bin\Debug\mesesDoAno.pdb
+C:\Users\miche\source\repos\mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.exe
+C:\Users\miche\source\repos\mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.pdb
+D:\gu\ds porra\tp\atividades\EX11_mesesDoAno\mesesDoAno\bin\Debug\mesesDoAno.exe.config
+D:\gu\ds porra\tp\atividades\EX11_mesesDoAno\mesesDoAno\bin\Debug\mesesDoAno.exe
+D:\gu\ds porra\tp\atividades\EX11_mesesDoAno\mesesDoAno\bin\Debug\mesesDoAno.pdb
+D:\gu\ds porra\tp\atividades\EX11_mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.csproj.AssemblyReference.cache
+D:\gu\ds porra\tp\atividades\EX11_mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.csproj.SuggestedBindingRedirects.cache
+D:\gu\ds porra\tp\atividades\EX11_mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.csproj.CoreCompileInputs.cache
+D:\gu\ds porra\tp\atividades\EX11_mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.exe
+D:\gu\ds porra\tp\atividades\EX11_mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.pdb
+E:\gu\ds porra\tp\atividades\EX11_mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.csproj.AssemblyReference.cache
+E:\gu\ds porra\tp\atividades\EX11_mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.csproj.SuggestedBindingRedirects.cache
+E:\gu\ds porra\tp\atividades\EX11_mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.csproj.CoreCompileInputs.cache
+E:\gu\ds porra\tp\atividades\EX11_mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.exe
+E:\gu\ds porra\tp\atividades\EX11_mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.pdb
+E:\gu\ds porra\tp\atividades\EX11_mesesDoAno\mesesDoAno\bin\Debug\mesesDoAno.exe.config
+E:\gu\ds porra\tp\atividades\EX11_mesesDoAno\mesesDoAno\bin\Debug\mesesDoAno.exe
+E:\gu\ds porra\tp\atividades\EX11_mesesDoAno\mesesDoAno\bin\Debug\mesesDoAno.pdb

@@ -1,0 +1,24 @@
+E:\gu\ds porra\tp\atividades\OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.csproj.AssemblyReference.cache
+E:\gu\ds porra\tp\atividades\OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.csproj.SuggestedBindingRedirects.cache
+E:\gu\ds porra\tp\atividades\OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.csproj.CoreCompileInputs.cache
+E:\gu\ds porra\tp\atividades\OrdemCrescente\OrdemCrescente\bin\Debug\OrdemCrescente.exe.config
+E:\gu\ds porra\tp\atividades\OrdemCrescente\OrdemCrescente\bin\Debug\OrdemCrescente.exe
+E:\gu\ds porra\tp\atividades\OrdemCrescente\OrdemCrescente\bin\Debug\OrdemCrescente.pdb
+E:\gu\ds porra\tp\atividades\OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.exe
+E:\gu\ds porra\tp\atividades\OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.pdb
+E:\gu\ds porra\tp\atividades\(EX1) OrdemCrescente\OrdemCrescente\bin\Debug\OrdemCrescente.exe.config
+E:\gu\ds porra\tp\atividades\(EX1) OrdemCrescente\OrdemCrescente\bin\Debug\OrdemCrescente.exe
+E:\gu\ds porra\tp\atividades\(EX1) OrdemCrescente\OrdemCrescente\bin\Debug\OrdemCrescente.pdb
+E:\gu\ds porra\tp\atividades\(EX1) OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.csproj.AssemblyReference.cache
+E:\gu\ds porra\tp\atividades\(EX1) OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.csproj.SuggestedBindingRedirects.cache
+E:\gu\ds porra\tp\atividades\(EX1) OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.csproj.CoreCompileInputs.cache
+E:\gu\ds porra\tp\atividades\(EX1) OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.exe
+E:\gu\ds porra\tp\atividades\(EX1) OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.pdb
+E:\gu\ds porra\tp\atividades\EX1_OrdemCrescente\OrdemCrescente\bin\Debug\OrdemCrescente.exe.config
+E:\gu\ds porra\tp\atividades\EX1_OrdemCrescente\OrdemCrescente\bin\Debug\OrdemCrescente.exe
+E:\gu\ds porra\tp\atividades\EX1_OrdemCrescente\OrdemCrescente\bin\Debug\OrdemCrescente.pdb
+E:\gu\ds porra\tp\atividades\EX1_OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.csproj.AssemblyReference.cache
+E:\gu\ds porra\tp\atividades\EX1_OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.csproj.SuggestedBindingRedirects.cache
+E:\gu\ds porra\tp\atividades\EX1_OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.csproj.CoreCompileInputs.cache
+E:\gu\ds porra\tp\atividades\EX1_OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.exe
+E:\gu\ds porra\tp\atividades\EX1_OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.pdb

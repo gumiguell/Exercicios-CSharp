@@ -1,0 +1,16 @@
+E:\gu\ds porra\tp\atividades\maças\maças\bin\Debug\maças.exe.config
+E:\gu\ds porra\tp\atividades\maças\maças\bin\Debug\maças.exe
+E:\gu\ds porra\tp\atividades\maças\maças\bin\Debug\maças.pdb
+E:\gu\ds porra\tp\atividades\maças\maças\obj\Debug\maças.csproj.AssemblyReference.cache
+E:\gu\ds porra\tp\atividades\maças\maças\obj\Debug\maças.csproj.SuggestedBindingRedirects.cache
+E:\gu\ds porra\tp\atividades\maças\maças\obj\Debug\maças.csproj.CoreCompileInputs.cache
+E:\gu\ds porra\tp\atividades\maças\maças\obj\Debug\maças.exe
+E:\gu\ds porra\tp\atividades\maças\maças\obj\Debug\maças.pdb
+E:\gu\ds porra\tp\atividades\EX7_maças\maças\bin\Debug\maças.exe.config
+E:\gu\ds porra\tp\atividades\EX7_maças\maças\bin\Debug\maças.exe
+E:\gu\ds porra\tp\atividades\EX7_maças\maças\bin\Debug\maças.pdb
+E:\gu\ds porra\tp\atividades\EX7_maças\maças\obj\Debug\maças.csproj.AssemblyReference.cache
+E:\gu\ds porra\tp\atividades\EX7_maças\maças\obj\Debug\maças.csproj.SuggestedBindingRedirects.cache
+E:\gu\ds porra\tp\atividades\EX7_maças\maças\obj\Debug\maças.csproj.CoreCompileInputs.cache
+E:\gu\ds porra\tp\atividades\EX7_maças\maças\obj\Debug\maças.exe
+E:\gu\ds porra\tp\atividades\EX7_maças\maças\obj\Debug\maças.pdb

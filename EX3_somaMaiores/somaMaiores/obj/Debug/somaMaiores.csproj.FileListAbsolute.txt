@@ -1,0 +1,16 @@
+E:\gu\ds porra\tp\atividades\somaMaiores\somaMaiores\bin\Debug\somaMaiores.exe.config
+E:\gu\ds porra\tp\atividades\somaMaiores\somaMaiores\bin\Debug\somaMaiores.exe
+E:\gu\ds porra\tp\atividades\somaMaiores\somaMaiores\bin\Debug\somaMaiores.pdb
+E:\gu\ds porra\tp\atividades\somaMaiores\somaMaiores\obj\Debug\somaMaiores.csproj.AssemblyReference.cache
+E:\gu\ds porra\tp\atividades\somaMaiores\somaMaiores\obj\Debug\somaMaiores.csproj.SuggestedBindingRedirects.cache
+E:\gu\ds porra\tp\atividades\somaMaiores\somaMaiores\obj\Debug\somaMaiores.csproj.CoreCompileInputs.cache
+E:\gu\ds porra\tp\atividades\somaMaiores\somaMaiores\obj\Debug\somaMaiores.exe
+E:\gu\ds porra\tp\atividades\somaMaiores\somaMaiores\obj\Debug\somaMaiores.pdb
+D:\gu\ds porra\tp\atividades\somaMaiores\somaMaiores\bin\Debug\somaMaiores.exe.config
+D:\gu\ds porra\tp\atividades\somaMaiores\somaMaiores\bin\Debug\somaMaiores.exe
+D:\gu\ds porra\tp\atividades\somaMaiores\somaMaiores\bin\Debug\somaMaiores.pdb
+D:\gu\ds porra\tp\atividades\somaMaiores\somaMaiores\obj\Debug\somaMaiores.csproj.AssemblyReference.cache
+D:\gu\ds porra\tp\atividades\somaMaiores\somaMaiores\obj\Debug\somaMaiores.csproj.SuggestedBindingRedirects.cache
+D:\gu\ds porra\tp\atividades\somaMaiores\somaMaiores\obj\Debug\somaMaiores.csproj.CoreCompileInputs.cache
+D:\gu\ds porra\tp\atividades\somaMaiores\somaMaiores\obj\Debug\somaMaiores.exe
+D:\gu\ds porra\tp\atividades\somaMaiores\somaMaiores\obj\Debug\somaMaiores.pdb

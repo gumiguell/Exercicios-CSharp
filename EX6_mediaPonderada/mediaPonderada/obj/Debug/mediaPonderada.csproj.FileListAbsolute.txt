@@ -1,0 +1,8 @@
+E:\gu\ds porra\tp\atividades\mediaPonderada\mediaPonderada\bin\Debug\mediaPonderada.exe.config
+E:\gu\ds porra\tp\atividades\mediaPonderada\mediaPonderada\bin\Debug\mediaPonderada.exe
+E:\gu\ds porra\tp\atividades\mediaPonderada\mediaPonderada\bin\Debug\mediaPonderada.pdb
+E:\gu\ds porra\tp\atividades\mediaPonderada\mediaPonderada\obj\Debug\mediaPonderada.csproj.AssemblyReference.cache
+E:\gu\ds porra\tp\atividades\mediaPonderada\mediaPonderada\obj\Debug\mediaPonderada.csproj.SuggestedBindingRedirects.cache
+E:\gu\ds porra\tp\atividades\mediaPonderada\mediaPonderada\obj\Debug\mediaPonderada.csproj.CoreCompileInputs.cache
+E:\gu\ds porra\tp\atividades\mediaPonderada\mediaPonderada\obj\Debug\mediaPonderada.exe
+E:\gu\ds porra\tp\atividades\mediaPonderada\mediaPonderada\obj\Debug\mediaPonderada.pdb
